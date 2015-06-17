@@ -1,0 +1,29 @@
+{
+  "name": "intersectionjs",
+  "version": "1.0.0",
+  "description": "NPM wrapper of Kevin Lindsey's intersection.js",
+  "main": "intersection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshkh/intersection.git"
+  },
+  "keywords": [
+    "intersection",
+    "kevin lindsey"
+  ],
+  "authors": [
+    "Kevin Lindsey <TBD>",
+    "Joshua Heimbach <joshkh@gmail.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshkh/intersection/issues"
+  },
+  "homepage": "https://github.com/joshkh/intersection",
+  "dependencies": {
+    "point2d": "0.0.1"
+  }
+}
