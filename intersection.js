@@ -1,3 +1,5 @@
+var Point2D = require('point2d');
+
 /*****
 *
 *   Intersection.js
