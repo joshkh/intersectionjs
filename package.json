@@ -1,6 +1,6 @@
 {
   "name": "intersectionjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM wrapper of Kevin Lindsey's intersection.js",
   "main": "intersection.js",
   "scripts": {
